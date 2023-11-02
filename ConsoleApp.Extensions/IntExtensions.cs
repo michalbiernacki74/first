@@ -6,3 +6,4 @@ public static class IntExtensions
 	}
 }
 //test 1
+//test 2
